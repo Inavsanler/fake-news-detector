@@ -1,0 +1,28 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Archivos de modelo pesados
+*.pkl
+*.h5
+*.joblib
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos de configuración locales
+.DS_Store
+.env
+
+# Archivos temporales de VS Code
+.vscode/
+*.log
+
+# Archivos de Google Colab
+*.csv
+*.tsv
+*.zip
+*.rar
